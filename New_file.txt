@@ -1,1 +1,2 @@
 scenario 1: Train Ticket Booking
+scenario 2: Search for Trains
