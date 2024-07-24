@@ -1,2 +1,6 @@
 scenario 1: Train Ticket Booking
+pushed by suganya
 scenario 2: Search for Trains
+=======
+scenario 3: Ticket booked
+>>>>>>> newbranch
